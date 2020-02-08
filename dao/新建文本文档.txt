@@ -1,1 +1,2 @@
-select * from table tb_student;
+select * from tb_student;
+select name,age from tb_student;
